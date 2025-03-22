@@ -16,5 +16,5 @@ I'm a MERN stack developer actively working on both frontend and backend develop
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
    <a href="https://learn.microsoft.com/en-us/windows/dev-environment/javascript/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="javascript" width="40" height="40"/></a> 
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/vector-logo/354675/tailwind-css" alt="javascript" width="40" height="40"/> </a> 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F354675%2Ftailwind-css&psig=AOvVaw0CbK7ZquWRcFVPnTPM5TxY&ust=1742748173182000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjWjIKRnowDFQAAAAAdAAAAABAE" alt="javascript" width="40" height="40"/> </a> 
 </p>
