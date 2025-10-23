@@ -9,7 +9,7 @@ I'm a MERN stack developer actively working on both frontend and backend develop
 ## 📫 How to reach me via email
    saiprasadrudra10@gmail.com
 
-## Languages and Tools:
+## Languages and Technologies:
 <p align="left"> 
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a>
    <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="oracle" width="40" height="40"/</a>
