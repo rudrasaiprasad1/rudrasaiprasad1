@@ -1,9 +1,4 @@
 #  Hi  i am  **Rudra SaiPrasad**
-
-Here’s an optimized, crisp, and GitHub-ready version of your bio — professional, concise, and high-impact:
-
----
-
 ### 👨‍💻 Full-Stack Software Engineer
 
 Passionate about building **performant, production-ready web applications** with clean, scalable code.
