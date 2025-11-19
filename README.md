@@ -1,7 +1,12 @@
 #  Hi  i am  **Rudra SaiPrasad**
 ### 👨‍💻 Full-Stack Software Engineer
 
+<p align="center">
+  <img src="https://www.linkedin.com/in/rudrasaiprasad/overlay/background-image/" alt="Banner" />
+</p>
+
 Passionate about building **performant, production-ready web applications** with clean, scalable code.
+
 
 **Frontend Expertise:**
 
