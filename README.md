@@ -1,8 +1,37 @@
 #  Hi  i am  **Rudra SaiPrasad**
 
-## About
-I'm a MERN stack developer actively working on both frontend and backend development. I specialize in React.js with Material UI and the latest Tailwind CSS for building modern, responsive UIs. In my company projects, I focus on creating efficient, scalable applications that leverage cutting-edge technologies. Currently, I'm working as a trainee at Paroksya, where I continue to refine my skills and contribute to real-world projects.
+Here’s an optimized, crisp, and GitHub-ready version of your bio — professional, concise, and high-impact:
 
+---
+
+### 👨‍💻 Full-Stack Software Engineer
+
+Passionate about building **performant, production-ready web applications** with clean, scalable code.
+
+**Frontend Expertise:**
+
+* TypeScript, React, Next.js
+* Tailwind CSS
+* Responsive, modern UI development
+* State management with Redux & Jotai
+
+**Backend & Infrastructure:**
+
+* Next.js API Routes, Express.js
+* PostgreSQL, MySQL, MongoDB
+* Prisma ORM (type-safe DB operations)
+* Supabase (backend-as-a-service)
+* Authentication with JWT, Bcrypt, Crypto
+
+**What I Do Best:**
+
+* Architect scalable full-stack solutions
+* Quickly onboard to existing codebases
+* Analyze technical documentation effectively
+* Implement new libraries, integrations & features
+* Deliver real-world, impactful applications
+
+💡 *I help transform ideas into powerful digital experiences.*
 
 
 
