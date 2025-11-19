@@ -2,7 +2,7 @@
 ### 👨‍💻 Full-Stack Software Engineer
 
 <p align="center">
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rudrasaiprasad1/rudrasaiprasad1/blob/main/1747492771631.jpeg" alt="Banner" width="40" height="40"/> </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rudrasaiprasad1/rudrasaiprasad1/blob/main/1747492771631.jpeg" alt="Banner"/> </a>
 </p>
 
 Passionate about building **performant, production-ready web applications** with clean, scalable code.
